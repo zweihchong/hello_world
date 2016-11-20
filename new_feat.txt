@@ -1,1 +1,2 @@
 I am from Penang Malaysia
+I am trying to learn git
